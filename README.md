@@ -1,16 +1,9 @@
-# test_bloc
+# Harry_Potter_App
 
 A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![harrypotter_home](https://github.com/mohamedhosny21/harry_potter-app/assets/96444914/d686ec18-46c9-4a66-80af-7fbd1bf10dbf)
+![harry_potter_search](https://github.com/mohamedhosny21/harry_potter-app/assets/96444914/474c5dd3-7785-4874-a18e-2591d2632e0d)
+![character](https://github.com/mohamedhosny21/harry_potter-app/assets/96444914/36b5310e-d71e-42d5-abbd-add07399cec1)
